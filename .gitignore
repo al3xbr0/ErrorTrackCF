@@ -1,0 +1,16 @@
+# ColdFusion Builder or Eclipse)
+settings.xml
+
+# Dreamweaver CS6
+_notes
+dwsync.xml
+
+# ColdFusion Server
+CFIDE
+WEB-INF
+
+# Ignore all dotfiles. Important for .project and .settings
+.*
+# except for .gitignore
+!.gitignore
+!.htaccess
